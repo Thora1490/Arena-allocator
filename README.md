@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Arena Allocator (C++)
 
 ## Ne yapar
